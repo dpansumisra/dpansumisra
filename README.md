@@ -1,53 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            font-family: Arial, sans-serif;
-            font-size: 24px;
-            font-weight: bold;
-        }
-
-        .text1, .text2, .text3, .text4 {
-            opacity: 0;
-            transition: opacity 2s ease-in, color 2s ease-in;
-        }
-
-        .text1 {
-            animation: fadeIn 2s forwards 0s;
-        }
-
-        .text2 {
-            animation: fadeIn 2s forwards 2s;
-        }
-
-        .text3 {
-            animation: fadeIn 2s forwards 4s;
-        }
-
-        .text4 {
-            animation: fadeIn 2s forwards 6s;
-        }
-
-        @keyframes fadeIn {
-            to {
-                opacity: 1;
-            }
-        }
-    </style>
-    <title>Animated Text Transition</title>
-</head>
-<body>
-    <div class="container">
-        <span class="text1" style="color: #3498db;">Software Engineering Student</span> |
-        <span class="text2" style="color: #e74c3c;">Seeking Job Opportunities</span> |
-        <span class="text3" style="color: #2ecc71;">Proficient in Many Technical Skills</span> |
-        <span class="text4" style="color: #f39c12;">Passionate About Coding, Problem-Solving</span>
-    </div>
-</body>
-</html>
+<h3 align="center">Software Engineering Student | Seeking Job Opportunities | Proficient in many technical skills | Passionate about coding, problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpansumisra&label=Profile%20views&color=0e75b6&style=flat" alt="dpansumisra" /> </p>
 
